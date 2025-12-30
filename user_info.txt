@@ -11,3 +11,6 @@ new entry
 Your name is: luffy
 Your age is 21
 new entry
+Your name is: mandip
+Your age is 22
+new entry
